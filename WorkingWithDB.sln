@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithDB", "WorkingWithDB.csproj", "{F56F0116-0E2A-4895-8F06-EE617184518C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Replication", "..\Replication\Replication.csproj", "{9848F94A-EB01-44C8-976D-E2CE076FA2BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F56F0116-0E2A-4895-8F06-EE617184518C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56F0116-0E2A-4895-8F06-EE617184518C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F56F0116-0E2A-4895-8F06-EE617184518C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56F0116-0E2A-4895-8F06-EE617184518C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9848F94A-EB01-44C8-976D-E2CE076FA2BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9848F94A-EB01-44C8-976D-E2CE076FA2BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9848F94A-EB01-44C8-976D-E2CE076FA2BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9848F94A-EB01-44C8-976D-E2CE076FA2BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A9E67D9-E908-41AC-A60A-82F7EAD273F0}
+	EndGlobalSection
+EndGlobal
